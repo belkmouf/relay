@@ -39,6 +39,7 @@ pnpm-debug.log*
 
 # Local test artifacts
 .agent-relay-test-*/
+.agent-relay/
 .tmp/
 .tmp-*/
 
