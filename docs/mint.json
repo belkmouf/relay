@@ -76,6 +76,11 @@
     "github": "https://github.com/agentworkforce/relay",
     "twitter": "https://twitter.com/agent_relay"
   },
+  "analytics": {
+    "ga4": {
+      "measurementId": "G-7MJ2PP223E"
+    }
+  },
   "integrations": {
     "posthog": {
       "apiKey": "phc_2uDu01GtnLABJpVkWw4ri1OgScLU90aEmXmDjufGdqr",
